@@ -24,7 +24,8 @@ The script modifies hardware-level FXO timing parameters to match Windstream’s
 2. Navigate to **Settings → Security → Service**.  
 3. Enable the **SSH** checkbox.  
    - A password will appear — **save or copy** it for later.  
-<img width="1400" height="816" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/ae944f44-66ff-4cda-8371-2cdc09501df6" />
+<img width="1400" height="816" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/6aec2683-56ac-4e65-a7d9-13946575bb5a" />
+
 
 
 ## Downloading PuTTY and loging in 
